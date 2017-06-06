@@ -21,6 +21,21 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+# this is for importing video
+import micawber
+from docutils import nodes
+from docutils.parsers.rst import Directive
+
+class Media(Directive):
+    """ Restructured text extension for inserting any sort of media using micawber."""
+    has_content = False
+    required_arguments = 1
+
+    def run(self):
+        providers = micawber.bootstrap_basic()
+        return [nodes.raw('', micawber.parse_text(self.arguments[0], providers), format='html')]
+
+
 
 # -- General configuration ------------------------------------------------
 
