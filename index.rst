@@ -4,7 +4,7 @@ This is for demo docs and experimenting
 
 .. raw:: html
 
-   <hr width=500 size=10>
+   <hr width=800 size=25>
 A
 
 * :ref:`Some Files`
