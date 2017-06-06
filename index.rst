@@ -2,6 +2,9 @@
 This is for demo docs and experimenting
 =======================================
 
+.. raw:: html
+
+   <hr width=500 size=10>
 A
 
 * :ref:`Some Files`
