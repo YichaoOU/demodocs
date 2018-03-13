@@ -1,1 +1,2 @@
-#sphinix==1.5.5
+Sphinix==1.5.5
+#git+https://github.com/rmk135/sphinxcontrib-disqus
