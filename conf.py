@@ -61,7 +61,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'aviatrix_docs'
+project = 'demo'
 copyright = '2017, Mark Ennamorato'
 author = 'Mark Ennamorato'
 
