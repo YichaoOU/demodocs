@@ -1,2 +1,2 @@
-#Sphinix==1.5.5
-git+https://github.com/rmk135/sphinxcontrib-disqus
+sphinx==1.5.5
+#git+https://github.com/rmk135/sphinxcontrib-disqus
