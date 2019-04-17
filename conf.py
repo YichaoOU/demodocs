@@ -93,7 +93,7 @@ pygments_style = 'sphinx'
 todo_include_todos = False
 
 # -- Options for extensions -----------------------------------------------
-disqus_shortname = 'demo-docs'
+disqus_shortname = 'hemtools'
 
 
 # -- Options for HTML output ----------------------------------------------
