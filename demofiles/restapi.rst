@@ -32,3 +32,4 @@ Request Parameters
 `Link video  <http://www.youtube.com/watch?v=cEh5cLqxgpA>`_
 
 .. disqus::
+    :disqus_identifier: NGS_pipelines
