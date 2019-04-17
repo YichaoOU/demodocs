@@ -15,4 +15,3 @@ This is for demo docs and experimenting
 
    demofiles/restapi
    
-.. disqus::   
