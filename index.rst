@@ -14,3 +14,5 @@ This is for demo docs and experimenting
    :caption: demofiles
 
    demofiles/restapi
+   
+.. disqus::   
