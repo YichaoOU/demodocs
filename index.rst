@@ -10,7 +10,7 @@ This is for demo docs and experimenting
 .. _Some Files:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: demofiles
 
    demofiles/restapi
